@@ -1,0 +1,21 @@
+.ErrorBoundary-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: rgba(248, 215, 218, 0.8); /* Light red background */
+  color: #721c24; /* Dark red text */
+}
+
+.ErrorBoundary-container p {
+  margin: 0;
+  font-size: 18px;
+  text-align: center;
+}
+
+.ErrorBoundary-container p:first-child {
+  font-weight: bold;
+  margin-bottom: 10px;
+}

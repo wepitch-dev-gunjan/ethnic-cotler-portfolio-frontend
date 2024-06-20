@@ -1,0 +1,69 @@
+@font-face {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshRTM.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDIkhRTM.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmRTM.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmRTM.ttf)
+    format("truetype");
+}
+@font-face {
+  font-family: "Nunito";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(./assets/fonts/XRXI3I6Li01BKofiOc5wtlZ2di8HDDsmRTM.ttf)
+    format("truetype");
+}
+
+.Layout-container {
+  display: flex;
+  flex-direction: column;
+  width: 100lvw;
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  .top {
+    display: flex;
+    height: 80px;
+    background-color: aquamarine;
+  }
+  .bottom {
+    display: flex;
+    background-color: rgb(160, 160, 160);
+    height: 100%;
+    .left {
+      display: flex;
+      flex-direction: column;
+      width: 350px;
+      background-color: rgb(182, 222, 222);
+    }
+    .right {
+      display: flex;
+      width: 100%;
+      background-color: rgb(236, 237, 237);
+    }
+  }
+}
