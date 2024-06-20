@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wolfproject.co/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wolfproject.co/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wolfproject.co/collections/sets.atom"/>
+  <title>Wolf Project</title>
+  <updated>2023-11-21T05:39:58-05:00</updated>
+  <author>
+    <name>Wolf Project</name>
+  </author>
+  <entry>
+    <id>https://wolfproject.co/products/7938310734047</id>
+    <published>2023-11-21T05:39:58-05:00</published>
+    <updated>2023-11-21T05:39:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wolfproject.co/products/dark-circles-killer-pack"/>
+    <title>Ultimate Skincare Set</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Wolf Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/7108/9225/files/ultimate-skincare-set-kit-wolf-project-671414.jpg?v=1700580358"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolf Project<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOLIDAYS DEAL: 40% OFF<br><br>10x Eye Masks Boosters<br>4x Hydrating Face Masks<br>1x Eye Roller<br>1x Cleanser<br>1x Hydrating Lotion<br><br>+ Free Manicure Set ($10 value)<br>+ Free Face Roller ($30 value)<br>+ Free Face Towel ($15 value)</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge-NEW</s:tag>
+    <s:variant>
+      <id>https://wolfproject.co/products/7938310734047</id>
+      <title>Default Title</title>
+      <s:price currency="USD">90.00</s:price>
+      <s:sku>90010120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wolfproject.co/products/7833488883935</id>
+    <published>2023-02-17T06:01:10-05:00</published>
+    <updated>2023-02-17T06:01:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wolfproject.co/products/anti-fatigue-system-bundle"/>
+    <title>Anti-Fatigue System - BUNDLE</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Wolf Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/7108/9225/products/anti-fatigue-system-bundle-wolf-project-208455.jpg?v=1660137027"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolf Project<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hide-product</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:tag>upgrade</s:tag>
+    <s:variant>
+      <id>https://wolfproject.co/products/7833488883935</id>
+      <title>Bundle M1</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>50010022-M1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wolfproject.co/products/7833488883935</id>
+      <title>Bundle M3</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>50010022-M3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wolfproject.co/products/7806627184863</id>
+    <published>2023-02-16T11:51:12-05:00</published>
+    <updated>2023-02-16T11:51:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wolfproject.co/products/anti-age-system-bundle"/>
+    <title>ANTI-AGE SYSTEM - BUNDLE</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Wolf Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/7108/9225/products/anti-age-system-bundle-wolf-project-591076.jpg?v=1660609994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolf Project<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hide-product</s:tag>
+    <s:tag>Subscription</s:tag>
+    <s:tag>upgrade</s:tag>
+    <s:variant>
+      <id>https://wolfproject.co/products/7806627184863</id>
+      <title>Bundle M1</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>50030022M1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wolfproject.co/products/7806627184863</id>
+      <title>Bundle M3</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>50030022M3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://wolfproject.co/products/7806627184863</id>
+      <title>Bundle M5</title>
+      <s:price currency="USD">80.00</s:price>
+      <s:sku>50030022M5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wolfproject.co/products/7983602401503</id>
+    <published>2023-01-13T06:41:07-05:00</published>
+    <updated>2023-01-13T06:41:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wolfproject.co/products/winter-package"/>
+    <title>Winter Care Set</title>
+    <s:type></s:type>
+    <s:vendor>Wolf Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/7108/9225/products/winter-wolf-project-616374.jpg?v=1673616311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolf Project<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>HOLIDAYS DEAL: 40% OFF<br><br>Fuslap x Wolf Project - Face Mask<br>Designed for the winter months, this face mask protects the skin against cold weather and repairs sun damage. <br><br></p>
+<p>5x Fusalp Wolf Project Face Masks<br>1x Cleanser<br>1x Hydrating Lotion</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wolfproject.co/products/7983602401503</id>
+      <title>Default Title</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku>80012300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wolfproject.co/products/7805684383967</id>
+    <published>2022-09-16T07:23:24-04:00</published>
+    <updated>2022-09-16T07:23:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wolfproject.co/products/anti-aging-system"/>
+    <title>ANTI-AGE SYSTEM</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Wolf Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/7108/9225/products/anti-age-system-kit-wolf-project-923560.jpg?v=1678948222"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolf Project<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            87.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<style type="text/css"><!--
+br {mso-data-placement:same-cell;}
+--></style>
+<span data-sheets-userformat='{"2":3007,"3":{"1":0},"4":{"1":2,"2":14281427},"5":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"6":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"7":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"8":{"1":[{"1":2,"2":0,"5":{"1":2,"2":0}},{"1":0,"2":0,"3":3},{"1":1,"2":0,"4":1}]},"10":0,"11":4,"12":0,"14":{"1":3,"3":1}}' data-sheets-value='{"1":2,"2":"Our solution for mature skin to fight the first signs of ageing such as lack of firmness, dullness and wrinkles. 15 minutes, once a week, let your skin glow! "}'>The perfect complete routine to tackle and prevent signs of aging, such as lack of firmness, dullness and wrinkles. </span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wolfproject.co/products/7805684383967</id>
+      <title>Default Title</title>
+      <s:price currency="USD">87.00</s:price>
+      <s:sku>50030022-1off</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wolfproject.co/products/7833527582943</id>
+    <published>2022-08-25T00:56:20-04:00</published>
+    <updated>2022-08-25T00:56:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wolfproject.co/products/anti-acne-system"/>
+    <title>Anti-Acne System</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Wolf Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/7108/9225/products/anti-acne-system-wolf-project-376908.jpg?v=1665405893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolf Project<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>badge-NEW</s:tag>
+    <s:tag>hide-product</s:tag>
+    <s:variant>
+      <id>https://wolfproject.co/products/7833527582943</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>50020022-1off</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wolfproject.co/products/7833486590175</id>
+    <published>2022-08-25T00:48:33-04:00</published>
+    <updated>2022-08-25T00:48:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wolfproject.co/products/anti-fatigue-system"/>
+    <title>Anti-Fatigue System</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Wolf Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/7108/9225/products/anti-fatigue-system-wolf-project-692081.jpg?v=1665405935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolf Project<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>hide-product</s:tag>
+    <s:variant>
+      <id>https://wolfproject.co/products/7833486590175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku>50010022-1off</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wolfproject.co/products/6940470214850</id>
+    <published>2022-06-03T19:34:14-04:00</published>
+    <updated>2022-06-03T19:34:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wolfproject.co/products/2021-holiday-gift-set"/>
+    <title>Masks Starter System</title>
+    <s:type>Kit</s:type>
+    <s:vendor>Wolf Project</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0068/7108/9225/products/masks-starter-system-kit-wolf-project-666660.jpg?v=1678948242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wolf Project<br>
+        <strong>Type: </strong>Kit<br>
+        <strong>Price: </strong>
+            51.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><strong>BLACK FRIDAY OFFER: 40% OFF</strong></p>
+<p>Upgrade your skincare routine with masks. Hydrate, cleanse, and fight dark circles with this Mask Tech+ powered selection.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wolfproject.co/products/6940470214850</id>
+      <title>Default Title</title>
+      <s:price currency="USD">51.00</s:price>
+      <s:sku>50010010</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
